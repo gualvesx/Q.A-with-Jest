@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1758714551250" clover="3.2.0">
+  <project timestamp="1758714551250" name="All files">
+    <metrics statements="24" coveredstatements="24" conditionals="4" coveredconditionals="4" methods="9" coveredmethods="9" elements="37" coveredelements="37" complexity="0" loc="24" ncloc="24" packages="1" files="9" classes="9"/>
+    <file name="ContaZerada.js" path="C:\Users\49418787873\Downloads\lista-jest-ofc-main\lista-jest-ofc-main\arquivo__js\ContaZerada.js">
+      <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <line num="2" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+    </file>
+    <file name="Contanolimite.js" path="C:\Users\49418787873\Downloads\lista-jest-ofc-main\lista-jest-ofc-main\arquivo__js\Contanolimite.js">
+      <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <line num="2" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+    </file>
+    <file name="Saldomaiorqueumvalor.js" path="C:\Users\49418787873\Downloads\lista-jest-ofc-main\lista-jest-ofc-main\arquivo__js\Saldomaiorqueumvalor.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+    </file>
+    <file name="Saldominimoexigido.js" path="C:\Users\49418787873\Downloads\lista-jest-ofc-main\lista-jest-ofc-main\arquivo__js\Saldominimoexigido.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+    </file>
+    <file name="Transferenciaentrecontas.js" path="C:\Users\49418787873\Downloads\lista-jest-ofc-main\lista-jest-ofc-main\arquivo__js\Transferenciaentrecontas.js">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+    </file>
+    <file name="depositoSimples.js" path="C:\Users\49418787873\Downloads\lista-jest-ofc-main\lista-jest-ofc-main\arquivo__js\depositoSimples.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+    </file>
+    <file name="jurosSimples.js" path="C:\Users\49418787873\Downloads\lista-jest-ofc-main\lista-jest-ofc-main\arquivo__js\jurosSimples.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+    </file>
+    <file name="negativoproibido.js" path="C:\Users\49418787873\Downloads\lista-jest-ofc-main\lista-jest-ofc-main\arquivo__js\negativoproibido.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+    </file>
+    <file name="saqueSimples.js" path="C:\Users\49418787873\Downloads\lista-jest-ofc-main\lista-jest-ofc-main\arquivo__js\saqueSimples.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
