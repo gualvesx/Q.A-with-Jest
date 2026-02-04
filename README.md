@@ -21,3 +21,12 @@ cd Casos-Tests-Jest
 
 # Instalar dependências
 npm install
+
+# Executar todos os testes
+npm test
+
+# Executar testes em modo watch (útil durante o desenvolvimento)
+npm run test:watch
+
+# Gerar relatório de cobertura de código (coverage)
+npm test -- --coverage
